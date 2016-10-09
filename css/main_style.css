@@ -926,6 +926,8 @@ a:hover { text-decoration: underline }
     Screen Loader
 * ========================================================================== 
 */
+
+/*
 .screen-loader {
     position: fixed;
     width: 100%;
@@ -1005,6 +1007,7 @@ a:hover { text-decoration: underline }
     filter: alpha(opacity=1);
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
 }
+*\
 /* ==========================================================================
    Print styles.
    Inlined to avoid the additional HTTP request:
